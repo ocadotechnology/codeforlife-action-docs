@@ -1,4 +1,4 @@
-name: "Hello World"
+name: "Code for Life - Docs"
 description: "Greet someone"
 inputs:
   who-to-greet:
